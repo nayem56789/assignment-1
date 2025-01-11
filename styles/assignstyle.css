@@ -206,3 +206,111 @@ font-weight: 600;
 border: none;
 margin-top: 24px;
 }
+.lorem{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+padding: 48px 24px 48px 24px;
+
+background: rgb(255, 255, 255);
+background-image: url("../assest/quote-bg.png");
+background-repeat: no-repeat;
+background-position: 24px 25px;
+width: 1500px;
+height: 256px;
+margin-top: 32px;
+
+}
+.yuhead{
+    color: rgba(14, 14, 14, 0.8);
+
+font-size: 20px;
+font-weight: 600;
+margin-bottom: 0px;
+margin-top: 12px;
+
+}
+.yup{
+    color: rgba(14, 14, 14, 0.6);
+
+font-size: 16px;
+font-weight: 400;
+margin-top: 4px;
+}
+.yup1{
+    color: rgba(14, 14, 14, 0.8);
+
+font-size: 16px;
+font-weight: 400;
+word-spacing: normal ;
+}
+.tahead{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(198, 228, 214);
+width: 1216px;
+height: 72px;
+text-align: left;
+font-size: 20px;
+font-weight: 600px;
+}
+.optable{
+width: 1480px;
+height: 409px;
+
+gap: 24;
+padding: 32px;
+
+margin: 24px 0px;
+ border-radius: 16px;
+
+background: rgb(255, 255, 255);
+border: 1px solid rgb(255, 255, 255);
+
+}
+.tfull{
+    width: 1416px;
+    height: 345px;
+    
+    
+
+border:  1px solid rgba(14, 14, 14, 0.15);
+}
+.satable{
+    color: rgb(14, 14, 14);
+font-size: 16px;
+font-weight: 600;
+
+
+}
+.yo{
+    width: 152px;
+    height: 44px;
+    background-color: rgb(198, 228, 214);
+    border: 2px solid black;
+margin: 24px;
+font-size: 16px;
+font-weight: 700;
+border-radius: 8px;
+text-align: center;
+}
+table{
+    border-collapse: collapse;
+    
+}
+
+td{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+  padding-left: 24px;
+}
+th{
+    padding: 24px;
+}
+.ophead{
+    color: rgb(14, 14, 14);
+
+font-size: 40px;
+font-weight: 700;
+margin-top: 80px;
+margin-bottom: 24px;
+}
